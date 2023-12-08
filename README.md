@@ -1,14 +1,11 @@
 # OBJETIVO
 
-Este é o terceiro desafio em que devo criar um site HTML e CSS, usando estilizações basicas até então exibidas ao decorrer do curso.
+Este é o segundo desafio em que devo criar um site HTML e CSS, usando estilizações basicas até então exibidas ao decorrer do curso, sem usar posicionamento nem nada do tipo.
 
-## COMO EXECUTAR:
-
-Siga estas etapas para executar o site:
-
-1. Baixe os arquivos.
-2. Navegue até o diretório onde os arquivos estão localizados.
-3. Dê um duplo clique em um dos arquivos "index.html".
-4. Escolha o navegador no qual deseja abrir o site.
-
-Isso permitirá que você visualize o site no navegador de sua escolha. Boa sorte com o desafio!
+## IMAGENS
+![Descrição da Imagem 1](imagens/prints/Screenshot%202023-12-08%20005459.png)
+![Descrição da Imagem 1](imagens/prints/Screenshot%202023-12-08%20005513.png)
+![Descrição da Imagem 1](imagens/prints/Screenshot%202023-12-08%20005521.png)
+![Descrição da Imagem 1](imagens/prints/Screenshot%202023-12-08%20005532.png)
+![Descrição da Imagem 1](imagens/prints/Screenshot%202023-12-08%20005540.png)
+![Descrição da Imagem 1](imagens/prints/Screenshot%202023-12-08%20005555.png)
